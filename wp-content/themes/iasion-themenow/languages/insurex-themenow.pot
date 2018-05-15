@@ -1,0 +1,1104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iasion Theme 1.0\n"
+"POT-Creation-Date: 2017-11-21 00:22+0600\n"
+"PO-Revision-Date: 2017-11-21 00:23+0600\n"
+"Last-Translator: \n"
+"Language-Team: ThemeNow\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:36
+msgid "Oops! That page can not be found, maybe you can search again."
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:48
+msgid "Primary"
+msgstr ""
+
+#: functions.php:106
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:108
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:116
+msgid "Project Sidebar"
+msgstr ""
+
+#: functions.php:118
+msgid "Add project sidebar here."
+msgstr ""
+
+#: functions.php:126
+msgid "Footer Widget"
+msgstr ""
+
+#: functions.php:128
+msgid "Add footer widget here"
+msgstr ""
+
+#: functions.php:215
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:221
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: functions.php:228
+msgid "iasion Toolkit"
+msgstr ""
+
+#: header.php:28 inc/cs-framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:199
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:200
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:202
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:204
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:205
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:257
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:258
+#: inc/class-tgm-plugin-activation.php:777
+#: inc/class-tgm-plugin-activation.php:2483
+#: inc/class-tgm-plugin-activation.php:3530
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:259
+#: inc/class-tgm-plugin-activation.php:3109
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:260
+#: inc/class-tgm-plugin-activation.php:2902
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:262
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:264
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:266
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:267
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:268
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:269
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:472
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:473
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:884
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:884
+#: inc/class-tgm-plugin-activation.php:887
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:887
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1071
+#: inc/class-tgm-plugin-activation.php:2898
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1932
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2223
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2226
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2242
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2245
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2248
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2265
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2269
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2271
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2277
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2280
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2283
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2338
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2346
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2350
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2432
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2440
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2448
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2460
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2483
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2497
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2499
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2503
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2504
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2558
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2564
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2667
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2673
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2676
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2707
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2709
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2750
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2752
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2858
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2884
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3108
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3448
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3451
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3453
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3457
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3459
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3459
+#: inc/class-tgm-plugin-activation.php:3467
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3459
+#: inc/class-tgm-plugin-activation.php:3467
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3460
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3462
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3465
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3467
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3468
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3470
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:175
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:180
+msgid "Default options restored."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:199
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:365
+msgid "Settings saved."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:367
+msgid "Save"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:367
+msgid "Saving..."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:368
+msgid "Restore"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:371
+#: inc/cs-framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:375
+msgid "show all options"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:131
+#: inc/cs-framework/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:155
+msgid "ID"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: inc/cs-framework/classes/shortcode.class.php:82
+#: inc/cs-framework/classes/shortcode.class.php:90
+#: inc/cs-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: inc/cs-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: inc/cs-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: inc/cs-framework/fields/background/background.php:34
+#: inc/cs-framework/fields/background/background.php:35
+#: inc/cs-framework/fields/upload/upload.php:23
+#: inc/cs-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: inc/cs-framework/fields/background/background.php:36
+#: inc/cs-framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: inc/cs-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: inc/cs-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/cs-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: inc/cs-framework/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: inc/cs-framework/fields/group/group.php:43
+#: inc/cs-framework/fields/group/group.php:75
+msgid "Remove"
+msgstr ""
+
+#: inc/cs-framework/fields/icon/icon.php:25
+#: inc/cs-framework/functions/actions.php:82
+msgid "Add Icon"
+msgstr ""
+
+#: inc/cs-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/cs-framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: inc/cs-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: inc/cs-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: inc/cs-framework/fields/switcher/switcher.php:20 inc/theme-style.php:14
+#: inc/theme-style.php:33
+msgid "on"
+msgstr ""
+
+#: inc/cs-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: inc/cs-framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: inc/cs-framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/cs-framework/fields/typography/typography.php:107
+#: inc/cs-framework/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: inc/cs-framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: inc/cs-framework/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: inc/cs-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: inc/cs-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: inc/cs-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: inc/metabox-and-options.php:15
+msgid "iasion theme options - by ThemeNow"
+msgstr ""
+
+#: inc/metabox-and-options.php:32
+msgid "Logos & social links"
+msgstr ""
+
+#: inc/metabox-and-options.php:38
+msgid "Favicon"
+msgstr ""
+
+#: inc/metabox-and-options.php:39
+msgid "Upload favicon image. Favicon image should be square sized image."
+msgstr ""
+
+#: inc/metabox-and-options.php:44
+msgid "Enable text logo?"
+msgstr ""
+
+#: inc/metabox-and-options.php:45
+msgid "If you want to enable text logo, select on."
+msgstr ""
+
+#: inc/metabox-and-options.php:51
+msgid "Logo image"
+msgstr ""
+
+#: inc/metabox-and-options.php:52
+msgid "Upload site logo."
+msgstr ""
+
+#: inc/metabox-and-options.php:58
+msgid "iasion"
+msgstr ""
+
+#: inc/metabox-and-options.php:59
+msgid "Logo text"
+msgstr ""
+
+#: inc/metabox-and-options.php:60
+msgid "Type logo text here."
+msgstr ""
+
+#: inc/metabox-and-options.php:66
+msgid "Social links"
+msgstr ""
+
+#: inc/metabox-and-options.php:67
+msgid ""
+"Add social links, you can call it any text area, by using shortcode "
+"[social_links]."
+msgstr ""
+
+#: inc/metabox-and-options.php:68
+msgid "Add new social link"
+msgstr ""
+
+#: inc/metabox-and-options.php:69
+msgid "Add New link"
+msgstr ""
+
+#: inc/metabox-and-options.php:74
+msgid "Font awesome Icon code"
+msgstr ""
+
+#: inc/metabox-and-options.php:75
+msgid "linkedin - use code like this"
+msgstr ""
+
+#: inc/metabox-and-options.php:80 inc/metabox-and-options.php:304
+msgid "Link"
+msgstr ""
+
+#: inc/metabox-and-options.php:90
+msgid "Typography"
+msgstr ""
+
+#: inc/metabox-and-options.php:96
+msgid "Body font"
+msgstr ""
+
+#: inc/metabox-and-options.php:97
+msgid "Select body google font & font weight."
+msgstr ""
+
+#: inc/metabox-and-options.php:107
+msgid "Heading font"
+msgstr ""
+
+#: inc/metabox-and-options.php:113
+msgid "Select heading google font & font weight."
+msgstr ""
+
+#: inc/metabox-and-options.php:120
+msgid "Styling"
+msgstr ""
+
+#: inc/metabox-and-options.php:127
+msgid "Proloader"
+msgstr ""
+
+#: inc/metabox-and-options.php:128
+msgid "If you want to enable preloader, select on."
+msgstr ""
+
+#: inc/metabox-and-options.php:133
+msgid "Choose theme primary color."
+msgstr ""
+
+#: inc/metabox-and-options.php:134
+msgid "Theme color"
+msgstr ""
+
+#: inc/metabox-and-options.php:142
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/metabox-and-options.php:149
+msgid "Blog sidebar setting"
+msgstr ""
+
+#: inc/metabox-and-options.php:150
+msgid "Select blog sidebar"
+msgstr ""
+
+#: inc/metabox-and-options.php:163
+msgid "Display post by?"
+msgstr ""
+
+#: inc/metabox-and-options.php:164
+msgid ""
+"If you want to show posted by name on blog index page and single blog, "
+"select on"
+msgstr ""
+
+#: inc/metabox-and-options.php:170
+msgid "Display post date?"
+msgstr ""
+
+#: inc/metabox-and-options.php:171
+msgid ""
+"If you want to show blog post date on blog index page and single blog, "
+"select on"
+msgstr ""
+
+#: inc/metabox-and-options.php:177
+msgid "Display comment count?"
+msgstr ""
+
+#: inc/metabox-and-options.php:178
+msgid "If you want to show comment count on blog index page, select on"
+msgstr ""
+
+#: inc/metabox-and-options.php:184
+msgid "Display posted in categories?"
+msgstr ""
+
+#: inc/metabox-and-options.php:185
+msgid ""
+"If you want to show blog category on blog index page and single blog, select "
+"on"
+msgstr ""
+
+#: inc/metabox-and-options.php:191
+msgid "Enable next previous link on single post?"
+msgstr ""
+
+#: inc/metabox-and-options.php:192
+msgid "If you want to show next previous links on single blog, select on"
+msgstr ""
+
+#: inc/metabox-and-options.php:198
+msgid "Enable posted in tag?"
+msgstr ""
+
+#: inc/metabox-and-options.php:199
+msgid "If you want to show tag list, select on"
+msgstr ""
+
+#: inc/metabox-and-options.php:206
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/metabox-and-options.php:212
+msgid "Footer  background color"
+msgstr ""
+
+#: inc/metabox-and-options.php:214
+msgid "Select footer background color"
+msgstr ""
+
+#: inc/metabox-and-options.php:219
+msgid "Footer text color"
+msgstr ""
+
+#: inc/metabox-and-options.php:221
+msgid "Select footer  text color"
+msgstr ""
+
+#: inc/metabox-and-options.php:226
+msgid "Copyright text"
+msgstr ""
+
+#: inc/metabox-and-options.php:227
+msgid "Copyright 2017 by ThemeNow. All Rights Reserved"
+msgstr ""
+
+#: inc/metabox-and-options.php:228
+msgid "Type footer copyright text."
+msgstr ""
+
+#: inc/metabox-and-options.php:249
+msgid "Slide Options"
+msgstr ""
+
+#: inc/metabox-and-options.php:260
+msgid "Buttons"
+msgstr ""
+
+#: inc/metabox-and-options.php:261
+msgid "Add slide buttons here."
+msgstr ""
+
+#: inc/metabox-and-options.php:262 inc/metabox-and-options.php:263
+msgid "Add New button"
+msgstr ""
+
+#: inc/metabox-and-options.php:268
+msgid "Button type"
+msgstr ""
+
+#: inc/metabox-and-options.php:269
+msgid "Select button type"
+msgstr ""
+
+#: inc/metabox-and-options.php:272
+msgid "Filled button"
+msgstr ""
+
+#: inc/metabox-and-options.php:273
+msgid "Bordered button"
+msgstr ""
+
+#: inc/metabox-and-options.php:279
+msgid "Button text"
+msgstr ""
+
+#: inc/metabox-and-options.php:280
+msgid "Type button text"
+msgstr ""
+
+#: inc/metabox-and-options.php:285
+msgid "Button link to"
+msgstr ""
+
+#: inc/metabox-and-options.php:286
+msgid "Select button link source."
+msgstr ""
+
+#: inc/metabox-and-options.php:289
+msgid "Page"
+msgstr ""
+
+#: inc/metabox-and-options.php:290
+msgid "External link"
+msgstr ""
+
+#: inc/metabox-and-options.php:297
+msgid "Select page"
+msgstr ""
+
+#: inc/metabox-and-options.php:298
+msgid "Select button link to page."
+msgstr ""
+
+#: inc/metabox-and-options.php:305
+msgid "Type button external link"
+msgstr ""
+
+#: inc/metabox-and-options.php:311
+msgid "Links open in"
+msgstr ""
+
+#: inc/metabox-and-options.php:312
+msgid "Select button link behabour."
+msgstr ""
+
+#: inc/metabox-and-options.php:315
+msgid "Same tab"
+msgstr ""
+
+#: inc/metabox-and-options.php:316
+msgid "New tab"
+msgstr ""
+
+#: inc/metabox-and-options.php:326
+msgid "Enable overlay?"
+msgstr ""
+
+#: inc/metabox-and-options.php:332
+msgid "percentage overlay."
+msgstr ""
+
+#: inc/metabox-and-options.php:333
+msgid "If you want to overlay.floating number  only max value 1."
+msgstr ""
+
+#: inc/metabox-and-options.php:341
+msgid "overlay color"
+msgstr ""
+
+#: inc/metabox-and-options.php:357
+msgid "iasion Testimonial Options"
+msgstr ""
+
+#: inc/metabox-and-options.php:370
+msgid "client image."
+msgstr ""
+
+#: inc/metabox-and-options.php:378
+msgid "client name."
+msgstr ""
+
+#: inc/metabox-and-options.php:397
+msgid "iasion Page Options"
+msgstr ""
+
+#: inc/metabox-and-options.php:412
+msgid "Enable title bar?"
+msgstr ""
+
+#: inc/metabox-and-options.php:430
+msgid "Project Options"
+msgstr ""
+
+#: inc/metabox-and-options.php:442
+msgid "Show project infos?"
+msgstr ""
+
+#: inc/metabox-and-options.php:443
+msgid "If you want to show project infos, select on."
+msgstr ""
+
+#: inc/metabox-and-options.php:448
+msgid "Project infos"
+msgstr ""
+
+#: inc/metabox-and-options.php:449
+msgid "Add project info here."
+msgstr ""
+
+#: inc/metabox-and-options.php:450 inc/metabox-and-options.php:451
+msgid "Add New info"
+msgstr ""
+
+#: inc/metabox-and-options.php:456
+msgid "Info title"
+msgstr ""
+
+#: inc/metabox-and-options.php:457
+msgid "Type info title"
+msgstr ""
+
+#: inc/metabox-and-options.php:462
+msgid "Info text"
+msgstr ""
+
+#: inc/metabox-and-options.php:463
+msgid "Type info text"
+msgstr ""
+
+#: inc/metabox-and-options.php:472
+msgid "Show project category?"
+msgstr ""
+
+#: inc/metabox-and-options.php:473
+msgid "If you want to show project category, select on."
+msgstr ""
+
+#: inc/metabox-and-options.php:479
+msgid "Show related projects?"
+msgstr ""
+
+#: inc/metabox-and-options.php:480
+msgid "If you want to show related projects, select on."
+msgstr ""
+
+#: inc/metabox-and-options.php:485
+msgid "Related projects"
+msgstr ""
+
+#: inc/metabox-and-options.php:486
+msgid "Related projects title"
+msgstr ""
+
+#: inc/metabox-and-options.php:487
+msgid "Type related projects title"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+msgid "Leave a Comment on %s"
+msgstr ""
+
+#: inc/template-tags.php:106 inc/template-tags.php:115
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:109
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:117
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:127 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: index.php:32
+msgid "Our Blog"
+msgstr ""
+
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-project.php:90
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-project.php:80
+msgid "Category"
+msgstr ""
+
+#: template-parts/content-project.php:86 template-parts/content.php:39
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-project.php:95 template-parts/content.php:49
+msgid "Read more"
+msgstr ""
